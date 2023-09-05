@@ -1,0 +1,25 @@
+font 
+Source Sans Pro
+Weight
+700
+Qwigley
+400
+ Open Sans   400 700 600
+ 
+Font Awesome 5 Free
+Weight
+900
+
+color
+#FDBE35 - orange
+
+  <nav class="navbar">Hot Meals
+    <div class="container">
+<ul class="navbar-nav >
+    <li class="nav-item">
+     <a class="nav-link" href="#">Deliver to:</a</li>
+    <li class="nav-item">
+        <a class="nav-link" href="#">Current location</li>
+    <li class="nav-item">Ashok Nagar,Chennai-600013</li>
+    <li class="nav-item">Search Food</li>
+    <li class="nav-item">Login</li>
